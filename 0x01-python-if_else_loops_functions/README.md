@@ -1,8 +1,8 @@
-#0x01. Python - if/else, loops, functions
+# 0x01. Python - if/else, loops, functions
 
-#Table of contents
 
-Files Description
+
+# Files Description
 
 0-positive_or_negative.py	-Python script that prints whether a given random number is positive or negative
 
