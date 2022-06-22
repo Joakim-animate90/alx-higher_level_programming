@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-
+"""Define classes for a singly-linked list."""
 class Node:
     """Node of a singly linked list.
     Private instance attribute: data:
