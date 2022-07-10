@@ -73,7 +73,7 @@ class Square(Rectangle):
                 self.x = args[2]
             if len(args) > 3:
                 self.y = args[3]
-            else:
+        else:
             for key, value in kwargs.items():
                 if key == "id":
                     if type(value) != int and value is not None:
