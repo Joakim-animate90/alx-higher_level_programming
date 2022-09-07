@@ -8,9 +8,9 @@ The aim of this project is to get started with Javascript, learn all the syntax 
 
 # Files	Description
 
-0-javascript_is_amazing.js	JS script that prints “Javascript is amazing”
+0-javascript_is_amazing.js	- JS script that prints “Javascript is amazing”
 
-1-multi_languages.js	JS script that prints 3 lines
+1-multi_languages.js	- JS script that prints 3 lines
 
 2-arguments.js	JS script that prints a message depending of the number of arguments passed
 
